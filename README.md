@@ -2,8 +2,7 @@
 <h3 align="center">A passionate learner from Bangladesh</h3>
 
 </br>
-</br>
-</br>
+
 
 # 💫 About Me:
 🌱 I’m currently learning Java, JavaFX, React<br>
