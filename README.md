@@ -22,6 +22,6 @@
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight)
 
 ### 🔝 Top Contributed Repo
-![Top Repos](https://github-readme-stats.vercel.app/api/top-langs/?username=sadmansakibornob&layout=compact&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sadmansakibornob&show_icons=true&theme=tokyonight)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
